@@ -37,7 +37,7 @@ For instance, in algebraic geometry, I am interested in $$\ell$$-adic (or $$p$$-
   - The goal of this project is to study the relationship between rigid cohomology and Dwork cohomology introduced by Adolphson and Sperber. As a corollary, we can calculate the rigid cohomology of Dwork isocrystal on torus.
 
  **4. Equidistributions of Generalized Jacobi Sums**
-- In this paper, 
+- In this paper, we extend results on classical Jacobi sums and employ a method similar to that of Ping Xi to obtain several results on their equidistributions.
 
 ## Contact info
 
