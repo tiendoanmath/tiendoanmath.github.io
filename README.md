@@ -10,18 +10,17 @@ My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a p
 
 
 ## Education
- - 2024 -- present : pre-PhD student at VAST.
- - 2019 -- 2023 : Bachelor in Mathematics, Vietnam National University Ho Chi Minh City - University of Science.
+ - 05/2024 -- present : pre-PhD student at VAST.
+ - 08/2019 -- 12/2023 : Bachelor in Mathematics, Vietnam National University Ho Chi Minh City - University of Science.
 
-## Based on
-
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
-
+## Research Projects
+**Theory of Fourier transform for $\mathcal{D}$-modules**
+- Mentor: Prof. Jiangxue Fang -- Capital Normal University.
+  - Aim:
+ **Exponential sums and rigid cohomology**
+- Mentor: Prof. Peigen Li -- Beijing Institute of Mathematical Sciences and Applications.
+  - Aim: 
+ 
 ## Installation (jekyll-remote-theme method)
 
 You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
