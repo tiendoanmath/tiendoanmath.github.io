@@ -11,7 +11,7 @@ Here is my full name, written in my mother tongue:
 
 $$\text{Doãn Quang Tiến}$$
 
-, in Vietnamese the family name comes first. I usually use the name **$$\text{Tien Doan}$$** for the research activity.
+(in Vietnamese the family name comes first). I usually use the name **$$\text{Tien Doan}$$** for the research activity.
 
 I am a Pre-PhD student at [Institute of Mathematics, Vietnam Academy of Science and Technology](http://math.ac.vn/en/trang-chu/gioi-thieu-vien-toan.html) (VAST), and under the supervision of Professor [Le Tuan Hoa](http://math.ac.vn/en/component/staff/?task=getProfile&staffID=25). Previously, he also advised my undergraduate thesis titled: "**Stability of the depth of the intersection of integral closures of powers of monomial ideals $$\bigcap_{n}\overline{I^n}$$.**"
 
