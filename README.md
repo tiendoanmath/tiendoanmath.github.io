@@ -7,13 +7,13 @@ layout: page
 
 Welcome to my homepage.
 
-My full name is Doan Quang Tien (and $$Do\tilde{a}n\enskip Quang\enskip Ti\acute{\hat{e}}n$$ in Vietnamese). I am a pre-PhD student at Institute of Mathematics, Vietnam Academy of Science and Technology (IM -- VAST), and under the supervision of Professor [Le Tuan Hoa](http://math.ac.vn/en/component/staff/?task=getProfile&staffID=25). 
+My full name is Doan Quang Tien (and $$Do\tilde{a}n\enskip Quang\enskip Ti\acute{\hat{e}}n$$ in Vietnamese). I am a Pre-PhD student at Institute of Mathematics, Vietnam Academy of Science and Technology (VAST), and under the supervision of Professor [Le Tuan Hoa](http://math.ac.vn/en/component/staff/?task=getProfile&staffID=25). 
 ## Research Interest
 
 
 ## Education
- - 05/2024 -- present : Pre-PhD student in Algebra and Number Theory at IM -- VAST.
- - 08/2019 -- 12/2023 : Bachelor of Science in Mathematics and Computer Science, Vietnam National University Ho Chi Minh City - University of Science.
+ - 05/2024 -- present : Pre-PhD student in Algebra and Number Theory at Institute of Mathematics, VAST.
+ - 08/2019 -- 12/2023 : Bachelor of Science in Mathematics and Computer Science, Vietnam National University Ho Chi Minh City -- University of Science.
 
 ## Research Projects
 
