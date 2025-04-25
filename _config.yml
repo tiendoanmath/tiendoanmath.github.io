@@ -1,9 +1,9 @@
 title: "Tien Doan's Homepage"
-subtitle: "PhD Preparatory Student in Mathematics at BNU"
+subtitle: "Mathematics is the most beautiful and most powerful creation of the human spirit."
 author: "Tien Doan"
-description: "Mathematics is the most beautiful and most powerful creation of the human spirit."
+# description: ""
 permalink: /:title/
-lang: "vi"
+lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
