@@ -14,10 +14,11 @@ My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a p
  - 08/2019 -- 12/2023 : Bachelor in Mathematics, Vietnam National University Ho Chi Minh City - University of Science.
 
 ## Research Projects
-**Theory of Fourier transform for $\mathcal{D}$-modules**
+**1. Theory of Fourier transform for $\mathcal{D}$-modules**
 - Mentor: Prof. Jiangxue Fang -- Capital Normal University.
   - Aim:
- **Exponential sums and rigid cohomology**
+
+ **2. Exponential sums and rigid cohomology**
 - Mentor: Prof. Peigen Li -- Beijing Institute of Mathematical Sciences and Applications.
   - Aim: 
  
