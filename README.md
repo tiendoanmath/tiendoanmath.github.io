@@ -7,7 +7,7 @@ layout: page
 
 Welcome to my homepage.
 
-Here is my full name, written in my mother tongue: 
+Here is my full name, written in my mother tongue : 
 
 $$\text{Doãn Quang Tiến}$$
 
