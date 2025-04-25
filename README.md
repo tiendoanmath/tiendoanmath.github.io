@@ -41,4 +41,4 @@ For instance, in algebraic geometry, I am interested in $$\ell$$-adic (or $$p$$-
 
 ## Contact info
 
-**Email :** doanquangtien1416 AT gmail.com
+**Email :** doanquangtien1416 at gmail dot com
