@@ -1,8 +1,8 @@
 ---
 title: "About Me"
 permalink: "/about/"
-layout: page
 mathjax: true
+layout: page
 ---
 
 Welcome to my homepage.
@@ -15,7 +15,7 @@ My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a p
  - 08/2019 -- 12/2023 : Bachelor in Mathematics, Vietnam National University Ho Chi Minh City - University of Science.
 
 ## Research Projects
-**1. Theory of Fourier Transform for $\mathcal{D}$-modules**
+**1. Theory of Fourier Transform for \(\mathcal{D}\)-modules**
 - Mentor: Prof. Jiangxue Fang -- Capital Normal University.
   - Aim:
 
