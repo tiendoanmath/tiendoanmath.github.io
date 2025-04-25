@@ -31,19 +31,11 @@ My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a P
 
  **4. Equidistributions of Generalized Jacobi Sums**
 - In this project, we investigate the Jacobi sums
-## Installation (jekyll-remote-theme method)
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+## Contact info
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
-
-plugins:
-  - jekyll-remote-theme
-```
-
-Note: to enable icons you also need to copy over the `_data` folder.
-
+**Email** : doanquangtien1416 AT gmail.com
+**Tel.** (+84) 17 43 1404
 ## Config
 
 Your `_config.yml` could for example look like this:
