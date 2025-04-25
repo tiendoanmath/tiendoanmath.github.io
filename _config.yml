@@ -1,7 +1,7 @@
 title: "Tien Doan's Homepage"
 subtitle: "Mathematics is the most beautiful and most powerful creation of the human spirit."
 author: "Tien Doan"
-# description: ""
+description: []
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
