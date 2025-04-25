@@ -1,4 +1,4 @@
-title: "Tien Doan's personal page"
+title: "Tien Doan's Homepage"
 author: "Tien Doan"
 description: "Mathematics is the most beautiful and most powerful creation of the human spirit."
 permalink: /:title/
@@ -20,8 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title:}
-  - {title:}
+  - {title:""}
+  - {title:""}
   
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
