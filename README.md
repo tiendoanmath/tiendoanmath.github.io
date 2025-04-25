@@ -30,7 +30,7 @@ For instance, in algebraic geometry, I am interested in $$\ell$$-adic (or $$p$$-
 
 **2. Theory of Fourier -- Deligne Transform for $$\mathscr{D}$$-modules**
 - Mentor : Prof. Jiangxue Fang -- Capital Normal University.
-  - Aim:
+  - The aim of this project is to conduct a thorough study of the theory of Fourier -- Deligne transform for $$\mathscr{D}$$-modules, which was previously developed by Esnault and Bloch.
 
  **3. Exponential Sums and Rigid Cohomology**
 - Mentor : Prof. Peigen Li -- Beijing Institute of Mathematical Sciences and Applications.
