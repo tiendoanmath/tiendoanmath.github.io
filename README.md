@@ -1,14 +1,15 @@
 ---
-title: "About"
+title: "About Me"
 permalink: "/about/"
 layout: page
 ---
 
-## Installation
+Welcome to my homepage.
+My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a pre-PhD student at Institute of Mathematics, Vietnam Academy of Science and Technology, and under the supervision of Professor [Le Tuan Hoa]([https://github.com/niklasbuschmann/contrast](http://math.ac.vn/en/component/staff/?task=getProfile&staffID=25)). 
+## Research Interest
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
-## Features
+## Learning Groups
 
  - supports dark mode on macOS Mojave
  - optional sidebar
