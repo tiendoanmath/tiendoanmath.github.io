@@ -7,7 +7,7 @@ layout: page
 
 Welcome to my homepage.
 
-My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a Pre-PhD student at Institute of Mathematics, Vietnam Academy of Science and Technology (VAST), and under the supervision of Professor [Le Tuan Hoa](http://math.ac.vn/en/component/staff/?task=getProfile&staffID=25). 
+My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a Pre-PhD student at [Institute of Mathematics, Vietnam Academy of Science and Technology](http://math.ac.vn/en/trang-chu/gioi-thieu-vien-toan.html) (VAST), and under the supervision of Professor [Le Tuan Hoa](http://math.ac.vn/en/component/staff/?task=getProfile&staffID=25). 
 ## Research Interest
 
 
