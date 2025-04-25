@@ -1,7 +1,6 @@
 ---
 title: "Others"
 permalink: "/Others/"
-mathjax: true
 layout: page
 ---
 
