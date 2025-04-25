@@ -26,7 +26,7 @@ For instance, in algebraic geometry, I am interested in $$\ell$$-adic (or $$p$$-
 
 **1. Castelnuovo -- Mumford Regularity via Apéry sets**
 - Mentor : Prof. Le Tuan Hoa -- Hanoi Institute of Mathematics.
-  - Aim:
+  - The goal of this project is to provide a relatively sharp new upper bound for the Castelnuovo -- Mumford regularity using Apéry sets. As an application, we identify a relatively general family of curves for which the regularity is determined by our upper bound, which significantly improves upon existing bounds such as the L'vovsky bound.
 
 **2. Theory of Fourier -- Deligne Transform for $$\mathscr{D}$$-modules**
 - Mentor : Prof. Jiangxue Fang -- Capital Normal University.
