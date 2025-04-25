@@ -3,7 +3,7 @@ subtitle: "PhD Preparatory Student in Mathematics at BNU"
 author: "Tien Doan"
 description: "Mathematics is the most beautiful and most powerful creation of the human spirit."
 permalink: /:title/
-lang: "en", "vi"
+lang: "vi"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
