@@ -6,6 +6,7 @@ layout: page
 ---
 
 Welcome to my homepage.
+
 My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a pre-PhD student at Institute of Mathematics, Vietnam Academy of Science and Technology, and under the supervision of Professor [Le Tuan Hoa](http://math.ac.vn/en/component/staff/?task=getProfile&staffID=25). 
 ## Research Interest
 
@@ -15,15 +16,20 @@ My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a p
  - 08/2019 -- 12/2023 : Bachelor in Mathematics, Vietnam National University Ho Chi Minh City - University of Science.
 
 ## Research Projects
-**1. Theory of Fourier Transform for $$\mathscr{D}$$-modules**
+
+**1. Castelnuovo -- Mumford Regularity via Apéry sets**
+- Mentor: Prof. Le Tuan Hoa -- Hanoi Institute of Mathematics.
+  - Aim:
+
+**2. Theory of Fourier Transform for $$\mathscr{D}$$-modules**
 - Mentor: Prof. Jiangxue Fang -- Capital Normal University.
   - Aim:
 
- **2. Exponential Sums and Rigid Cohomology**
+ **3. Exponential Sums and Rigid Cohomology**
 - Mentor: Prof. Peigen Li -- Beijing Institute of Mathematical Sciences and Applications.
   - Aim: 
 
- **3. Equidistributions of Generalized Jacobi Sums**
+ **4. Equidistributions of Generalized Jacobi Sums**
 - In this project, we investigate the Jacobi sums
 ## Installation (jekyll-remote-theme method)
 
