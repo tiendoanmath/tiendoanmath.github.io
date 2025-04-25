@@ -1,6 +1,6 @@
 ---
 title: "Others"
-permalink: "/others/"
+permalink: "/Others/"
 mathjax: true
 layout: page
 ---
