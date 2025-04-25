@@ -2,7 +2,7 @@ title: "Tien Doan's personal page"
 author: "Tien Doan"
 description: "Mathematics is the most beautiful and most powerful creation of the human spirit ~ Stefan Banach"
 permalink: /:title/
-lang: ["en","vi"]
+lang-exclusive: ["en","vi"]
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
