@@ -10,8 +10,8 @@ My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a p
 
 
 ## Education
- - 2024 - present : pre-PhD student at VAST.
- - 2019 - 2023 : Bachelor in Mathematics, Vietnam National University Ho Chi Minh City - University of Science.
+ - 2024 -- present : pre-PhD student at VAST.
+ - 2019 -- 2023 : Bachelor in Mathematics, Vietnam National University Ho Chi Minh City - University of Science.
 
 ## Based on
 
