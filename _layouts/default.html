@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
 <html lang="{{ page.lang | default: site.lang | default: "vi"}}">
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
 <meta charset="{{ site.encoding }}">
@@ -29,6 +28,7 @@
 {% endif %}
 
 <header>
+  <meta charset="utf-8">
   <div class="site-header">
     <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
     {% if site.subtitle %}
