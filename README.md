@@ -21,7 +21,7 @@ My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a P
 - Mentor : Prof. Le Tuan Hoa -- Hanoi Institute of Mathematics.
   - Aim:
 
-**2. Theory of Fourier Transform for $$\mathscr{D}$$-modules**
+**2. Theory of Fourier -- Deligne Transform for $$\mathscr{D}$$-modules**
 - Mentor : Prof. Jiangxue Fang -- Capital Normal University.
   - Aim:
 
