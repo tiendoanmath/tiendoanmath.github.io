@@ -14,7 +14,7 @@ My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a P
 ## Education
  - 05/2024 -- present : Pre-PhD student in Algebra and Number Theory at Institute of Mathematics, VAST.
  - 08/2019 -- 12/2023 : Bachelor of Science in Mathematics and Computer Science, Vietnam National University Ho Chi Minh City -- University of Science.
-
+ - 08/2016 -- 05/2019 : Mathematics Specialized Class, Phu My High School and Le Quy Don High School for the Gifted, Ba Ria -- Vung Tau, Vietnam.
 ## Research Projects
 
 **1. Castelnuovo -- Mumford Regularity via Apéry sets**
