@@ -18,15 +18,15 @@ My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a P
 ## Research Projects
 
 **1. Castelnuovo -- Mumford Regularity via Apéry sets**
-- Mentor: Prof. Le Tuan Hoa -- Hanoi Institute of Mathematics.
+- Mentor : Prof. Le Tuan Hoa -- Hanoi Institute of Mathematics.
   - Aim:
 
 **2. Theory of Fourier Transform for $$\mathscr{D}$$-modules**
-- Mentor: Prof. Jiangxue Fang -- Capital Normal University.
+- Mentor : Prof. Jiangxue Fang -- Capital Normal University.
   - Aim:
 
  **3. Exponential Sums and Rigid Cohomology**
-- Mentor: Prof. Peigen Li -- Beijing Institute of Mathematical Sciences and Applications.
+- Mentor : Prof. Peigen Li -- Beijing Institute of Mathematical Sciences and Applications.
   - Aim: 
 
  **4. Equidistributions of Generalized Jacobi Sums**
