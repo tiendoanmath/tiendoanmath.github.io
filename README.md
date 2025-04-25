@@ -34,8 +34,8 @@ My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a P
 
 ## Contact info
 
-**Email** : doanquangtien1416 AT gmail.com
-**Tel.** (+84) 17 43 1404
+**Email :** doanquangtien1416 AT gmail.com
+
 ## Config
 
 Your `_config.yml` could for example look like this:
