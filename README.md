@@ -30,14 +30,14 @@ For instance, in algebraic geometry, I am interested in $$\ell$$-adic (or $$p$$-
 
 **2. Theory of Fourier -- Deligne Transform for $$\mathscr{D}$$-modules**
 - Mentor : Prof. Jiangxue Fang -- Capital Normal University.
-  - The aim of this project is to conduct a thorough study of the theory of Fourier -- Deligne transform for $$\mathscr{D}$$-modules, which was previously developed by Esnault and Bloch.
+  - The goal of this project is to conduct a thorough study of the theory of Fourier -- Deligne transform for $$\mathscr{D}$$-modules, which was previously developed by Esnault and Bloch.
 
  **3. Exponential Sums and Rigid Cohomology**
 - Mentor : Prof. Peigen Li -- Beijing Institute of Mathematical Sciences and Applications.
-  - Aim: 
+  - The goal of this project is to study the relationship between rigid cohomology and Dwork cohomology introduced by Adolphson and Sperber. As a corollary, we can calculate the rigid cohomology of Dwork isocrystal on torus.
 
  **4. Equidistributions of Generalized Jacobi Sums**
-- In this project, we investigate the Jacobi sums
+- In this paper, 
 
 ## Contact info
 
