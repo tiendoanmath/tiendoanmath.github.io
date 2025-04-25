@@ -9,18 +9,9 @@ My full name is Doan Quang Tien (and Doãn Quang Tiến in Vietnamese). I am a p
 ## Research Interest
 
 
-## Learning Groups
-
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+## Education
+ - 2024 - present : pre-PhD student at VAST.
+ - 2019 - 2023 : Bachelor in Mathematics, Vietnam National University Ho Chi Minh City - University of Science.
 
 ## Based on
 
