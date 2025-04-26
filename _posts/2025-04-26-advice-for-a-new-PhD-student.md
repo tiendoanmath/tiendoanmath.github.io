@@ -20,4 +20,5 @@ Good luck! A PhD is a challenging expedition to the frontiers of human knowledge
 Here's a painting that I feel is appropriate:
 
 ![image alt](https://github.com/tiendoanmath/tiendoanmath.github.io/blob/master/Wanderer%20above%20the%20Sea%20of%20Fog.jpg?raw=true)
+
 *"Wanderer above the Sea of Fog" by Caspar David Friedrich*
