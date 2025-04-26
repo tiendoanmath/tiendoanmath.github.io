@@ -33,11 +33,11 @@ For instance, in algebraic geometry, I am interested in $$\ell$$-adic (or $$p$$-
   - The goal of this project is to provide a relatively sharp new upper bound for the Castelnuovo -- Mumford regularity using Apéry sets. As an application, we identify a relatively general family of curves for which the regularity is determined by our upper bound, which significantly improves upon existing bounds such as the L'vovsky bound.
 
 **2. Theory of Fourier -- Deligne Transform for $$\mathscr{D}$$-modules**
-- Mentor : Prof. Jiangxue Fang -- Capital Normal University.
+- Mentor : Prof. Jiangxue Fang -- Capital Normal University (CNU).
   - The goal of this project is to conduct a detailed and comprehensive study of the theory of Fourier -- Deligne transform for $$\mathscr{D}$$-modules, which was previously developed by Esnault and Bloch.
 
  **3. Exponential Sums and Rigid Cohomology**
-- Mentor : Prof. Peigen Li -- Beijing Institute of Mathematical Sciences and Applications.
+- Mentor : Prof. Peigen Li -- Beijing Institute of Mathematical Sciences and Applications (BIMSA).
   - The goal of this project is to study the relationship between rigid cohomology and Dwork cohomology introduced by Adolphson and Sperber. As a corollary, we can calculate the rigid cohomology of Dwork isocrystal on torus.
 
  **4. Equidistributions of Generalized Jacobi Sums**
