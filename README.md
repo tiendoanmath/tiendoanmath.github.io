@@ -19,7 +19,7 @@ I am a Pre-PhD student at [Institute of Mathematics, Vietnam Academy of Science 
 
 My research interests include algebraic geometry, number theory, commutative algebra, and their connections with other areas of mathematics.
 
-For instance, in algebraic geometry, I am interested in $$\ell$$-adic (or $$p$$-adic) cohomology theories and their applications to problems in number theory, such as estimating exponential sums. In commutative algebra, I am often concerned with estimating an important invariant in algebraic geometry, namely, the Castelnuovo -- Mumford regularity by using tools from combinatorics, linear programming, additive number theory, and so on.
+For instance, in algebraic geometry, I am interested in $$\ell$$-adic (or $$p$$-adic) cohomology theories and their applications to problems in number theory, such as estimating exponential sums. In commutative algebra, I am often concerned with estimating an important invariant in algebraic geometry, namely, the Castelnuovo — Mumford regularity by using tools from combinatorics, linear programming, additive number theory, and so on.
 
 ## Education
  - 05/2024 -- present : Pre-PhD student in Algebra and Number Theory at Institute of Mathematics, VAST.
