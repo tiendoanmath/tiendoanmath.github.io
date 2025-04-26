@@ -3,7 +3,7 @@ title: "What is some general advice for a new PhD student?"
 layout: post
 ---
 
-The following reflections are quoted verbatim from Kevin H. Lin, a PhD student specializing in Algebraic Geometry, on the Quora forum.
+The following sharings are quoted verbatim from Kevin H. Lin, a PhD student specializing in Algebraic Geometry, on the Quora forum.
 
 Some things I wish someone had told me before I started grad school:
 
